@@ -1,0 +1,15 @@
+torch>=2.1
+transformers>=4.40
+sentence-transformers>=2.7
+chromadb>=0.5
+gradio>=4.0
+groq>=0.9
+google-genai>=1.0
+huggingface-hub>=0.23
+pandas>=2.0
+numpy>=1.26
+pyarrow>=14.0
+Pillow>=10.0
+requests>=2.31
+tqdm>=4.66
+matplotlib>=3.8
